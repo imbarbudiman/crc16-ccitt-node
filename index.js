@@ -1,0 +1,1 @@
+module.exports = require('./lib/crc16-ccitt');
