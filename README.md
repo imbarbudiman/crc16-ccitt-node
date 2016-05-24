@@ -5,7 +5,7 @@ Fungsi untuk mendapatkan nilai Error Check atau Checksum dengan algoritma crc-16
 #### Instalasi
 Instal dengan [npm](https://www.npmjs.com "npmjs.com") : 
 
-      npm install crc16-ccitt-node --save
+    npm install crc16-ccitt-node --save
 
 #### Contoh
 ```javascript
