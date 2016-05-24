@@ -1,8 +1,6 @@
 var crc = require('crc16-ccitt-node');
-var buffData = new Buffer(3);
+var buffData = new Buffer('ff7878', 'hex');
 
-buffData.writeUInt8(0x78, 0);
-buffData.writeUInt8(0x78, 1);
-buffData.writeUInt8(0x78, 2);
 
-console.log(crc.getCrc16(buffData));
+console.log("hex : %s ", crc.getCrc16(buffData).toString(16));
+console.log("decimal : %d ", crc.getCrc16(buffData));
