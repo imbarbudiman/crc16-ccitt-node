@@ -1,7 +1,7 @@
 {
   "name": "crc16-ccitt-node",
   "version": "1.0.1",
-  "description": "Fungsi untuk mendapatkan nilai error cek atau checksum dengan algoritma crc-16bit atau crc-ccitt atau crc-itu",
+  "description": "Fungsi untuk mendapatkan nilai error cek atau checksum dengan algoritma crc-16 atau crc-ccitt atau crc-itu",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
