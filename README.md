@@ -3,7 +3,7 @@
 Fungsi untuk mendapatkan nilai Error Check atau Checksum dengan algoritma crc-16 atau crc-ccitt atau crc-itu
 
 #### Instalasi
-Instal dengan [npm](https://www.npmjs.com "npmjs.com") : 
+Instal dengan [npm](https://www.npmjs.com/package/crc16-ccitt-node "crc16-ccitt-node on npmjs.com") : 
 
     npm install crc16-ccitt-node --save
 
