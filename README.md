@@ -1,6 +1,6 @@
 # crc16-ccitt-node
 
-Fungsi untuk mendapatkan nilai Error Check atau Checksum dengan algoritma crc-16 atau crc-ccitt atau crc-itu
+Fungsi untuk mendapatkan nilai Error Check atau Checksum dengan algoritma CRC-ITU kadang juga disebut CRC16-CCITT
 
 #### Instalasi
 Instal dengan [npm](https://www.npmjs.com/package/crc16-ccitt-node "crc16-ccitt-node on npmjs.com") : 
