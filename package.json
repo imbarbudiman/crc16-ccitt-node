@@ -1,6 +1,6 @@
 {
   "name": "crc16-ccitt-node",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Fungsi untuk mendapatkan nilai error cek atau checksum dengan algoritma crc-16 atau crc-ccitt atau crc-itu",
   "main": "index.js",
   "scripts": {
@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imbar/crc16-ccitt-node.git"
+    "url": "git+https://github.com/imbarbudiman/crc16-ccitt-node.git"
   },
   "bugs": {
-    "url": "https://github.com/imbar/crc16-ccitt-node/issues"
+    "url": "https://github.com/imbarbudiman/crc16-ccitt-node/issues"
   },
-  "homepage": "https://github.com/imbar/crc16-ccitt-node#readme"
+  "homepage": "https://github.com/imbarbudiman/crc16-ccitt-node#readme"
 }
