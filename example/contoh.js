@@ -1,5 +1,5 @@
-var crc = require('crc16-ccitt-node');
-var buffData = new Buffer('ff7878', 'hex');
+let crc = require("../lib/crc16-ccitt");
+let buffData = new Buffer.from('ff7878', 'hex');
 
 console.log("string hex : %s ", crc.getCrc16(buffData).toString(16));
 // string hex : c1f4
