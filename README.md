@@ -10,7 +10,7 @@ Instal dengan [npm](https://www.npmjs.com/package/crc16-ccitt-node "crc16-ccitt-
 #### Contoh
 ```javascript
 let crc = require('crc16-ccitt-node');
-let buffData = new Buffer.from('ff7878', 'hex');
+let buffData = Buffer.from('ff7878', 'hex');
 
 console.log("string hex : %s ", crc.getCrc16(buffData).toString(16));
 // string hex : c1f4
