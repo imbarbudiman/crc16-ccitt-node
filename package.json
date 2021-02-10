@@ -1,6 +1,6 @@
 {
   "name": "crc16-ccitt-node",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Fungsi untuk mendapatkan nilai error cek atau checksum dengan algoritma crc-16 atau crc-ccitt atau crc-itu",
   "main": "index.js",
   "scripts": {
